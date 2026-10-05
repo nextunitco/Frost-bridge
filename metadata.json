@@ -1,0 +1,6 @@
+{
+  "name": "Frost Bridge Global Logistics",
+  "description": "Professional, high-performance corporate website for Frost Bridge Global Logistics Limited, featuring freight forwarding, cold chain, warehousing, custom clearance, shipment tracking, and an interactive Trade & Forex Centre.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
